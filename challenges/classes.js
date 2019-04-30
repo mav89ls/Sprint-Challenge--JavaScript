@@ -1,6 +1,6 @@
 // 1. Copy and paste your prototype in here and refactor into class syntax.
 
-class CuboidMaker {
+class CuboidMaker2 {
     constructor(length, width, height) {
             this.length = length;
             this.width = width;
@@ -22,7 +22,7 @@ class CuboidMaker {
 
 
 
-let cuboid = new CuboidMaker(4, 5, 5);
+let cuboid2 = new CuboidMaker(4, 5, 5);
 
 
 
